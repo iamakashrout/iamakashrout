@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akash Rout</h1>
 <h3 align="center">An ambitious and aspiring Computer Science undergrad!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamakashrout&label=Profile%20views&color=0e75b6&style=flat" alt="iamakashrout" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamakashrout" alt="iamakashrout" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://portfolio-phi-six-69.vercel.app](https://portfolio-phi-six-69.vercel.app)
 
 - 📫 How to reach me **iamakashrout@gmail.com**
@@ -10,7 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akash-rout-82a38622a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-rout-82a38622a" height="30" width="40" /></a>
+<a href="https://fb.com/iamakashrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamakashrout" height="30" width="40" /></a>
 <a href="https://instagram.com/iamakashrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamakashrout" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/iamakashrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iamakashrout" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/akash_rout" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akash_rout" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iamakashrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamakashrout" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/iamakashrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iamakashrout" height="30" width="40" /></a>
@@ -24,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamakashrout&show_icons=true&locale=en" alt="iamakashrout" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamakashrout&" alt="iamakashrout" /></p>
+
