@@ -1,3 +1,4 @@
+![Header](./header.gif)
 <h1 align="center">Hi 👋, I'm Akash Rout</h1>
 <h3 align="center">An ambitious and aspiring Computer Science undergrad!</h3>
 
