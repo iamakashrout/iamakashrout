@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **iamakashrout@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/181xcEp1bjQV_xUIMI-yTypA7osOwTBbH/view](https://drive.google.com/file/d/181xcEp1bjQV_xUIMI-yTypA7osOwTBbH/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hjb1UeFgtd3HOant2fLJHTBKFiiaetms/view](https://drive.google.com/file/d/1hjb1UeFgtd3HOant2fLJHTBKFiiaetms/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +21,6 @@
 <a href="https://instagram.com/iamakashrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamakashrout" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@iamakashrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@iamakashrout" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/akash_rout" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akash_rout" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/iamakashrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iamakashrout" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iamakashrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamakashrout" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/iamakashrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iamakashrout" height="30" width="40" /></a>
 </p>
