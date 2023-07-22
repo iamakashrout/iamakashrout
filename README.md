@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **iamakashrout@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hjb1UeFgtd3HOant2fLJHTBKFiiaetms/view](https://drive.google.com/file/d/1hjb1UeFgtd3HOant2fLJHTBKFiiaetms/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14w7rrUOnSJPKcUn5-uALGjHrs4GR4TzS/view](https://drive.google.com/file/d/14w7rrUOnSJPKcUn5-uALGjHrs4GR4TzS/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
